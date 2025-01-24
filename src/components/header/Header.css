@@ -1,0 +1,23 @@
+.navbar {
+    background-color: #202b3b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px;
+}
+
+.navLinks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    gap: 20px;
+}
+
+.navbar_logo {
+    color: #ffffff;
+}
+
+.toggle_icon {
+    display: none;
+}

@@ -1,0 +1,38 @@
+.footer {
+    background-color: #202b3b;
+    padding: 20px 50px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_logo h1 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.footer_logo h4 {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.social_icon ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.social_icon ul li {
+    font-size: 25px;
+}
+
+.footer_links ul li {
+    padding: 5px 0;
+}
+
+.footer_links h6 {
+    font-size: 18px;
+    font-weight: 500;
+}
